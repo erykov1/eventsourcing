@@ -1,0 +1,4 @@
+package cinema;
+
+interface ReservationEvent {
+}
